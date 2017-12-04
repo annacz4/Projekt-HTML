@@ -1,0 +1,25 @@
+html {
+    background-color: #fff1ef;
+}
+h1 {
+    font-family: 'Vollkorn SC', serif;
+}
+section {
+    background-color: #ff7676;
+}
+.category_buttons {
+    width: 250px;
+    background: #7b76ff;
+    color: #fdff76;
+    text-align: center;
+    text-decoration: none;
+    font-family: 'Orbitron', sans-serif;
+    margin: 10px;
+}
+.button2:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+.flex-container {
+  display: flex;
+  flex-direction: column;
+}
