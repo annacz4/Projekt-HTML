@@ -1,0 +1,82 @@
+html {
+    background-color: #fff1ef;
+}
+h1 {
+    font-family: 'Vollkorn SC', serif;
+    text-align: center;
+}
+section {
+    background-color: #ffe4d4;
+}
+.sec2 {
+    background-color: #ffd1d1;
+}
+.category_buttons {    
+    color: #6b2153;
+    text-align: center;
+    text-decoration: none;
+    font-family: 'Orbitron', sans-serif;
+    margin: 10px;
+}
+.Titles {
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    font-family: 'Glass Antiqua', cursive;
+    word-wrap: break-word;
+}
+.lazyImage {
+    width: 100px;
+    height: 100px;
+}
+.whiteBox__title {
+    text-align: center;
+    text-decoration: none;
+    font-family: 'Glass Antiqua', cursive;
+}
+.productInfo {
+    text-align: center;
+    text-decoration: none;
+    font-family: 'Orbitron', sans-serif;
+    margin: 10px;
+}
+.productPriceInfo__content {
+    color: crimson;
+    text-align: center;
+    text-decoration: none;
+    font-family: 'Orbitron', sans-serif;
+    }
+.button2:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+.flex-container {
+  display: flex;
+  flex-direction: row;
+}
+.flexbox-container2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  align-self: center;
+}
+.flexbox-item {
+  max-width: 50%;
+}
+
+.flexbox-item--top {
+  align-self: flex-start;
+}
+
+.flexbox-item--bottom {
+  align-self: flex-end;
+}
+
+a {
+    text-decoration: none;
+}
+
+footer {
+    font-family: 'Vollkorn SC', serif;
+    font-size: 10px;
+}
